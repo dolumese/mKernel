@@ -13,3 +13,6 @@ college computer science course.
 
 ## Usage
 Clone the repo and run `make emulate`
+
+## License
+MIT. Copyright (c) 2019 David E Olumese
